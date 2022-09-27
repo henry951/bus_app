@@ -1,0 +1,75 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\2171040202146\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Users\2171040202146\OneDrive - 日本電気株式会社\Desktop\Codes\react-native\node_modules\.bin;C:\Users\2171040202146\OneDrive - 日本電気株式会社\Desktop\Codes\node_modules\.bin;C:\Users\2171040202146\OneDrive - 日本電気株式会社\Desktop\node_modules\.bin;C:\Users\2171040202146\OneDrive - 日本電気株式会社\node_modules\.bin;C:\Users\2171040202146\node_modules\.bin;C:\Users\node_modules\.bin;C:\node_modules\.bin;C:\Users\2171040202146\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\run-script\lib\node-gyp-bin;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\2171040202146\AppData\Local\Programs\Python\Python39;C:\Users\2171040202146\AppData\Local\Programs\Python\Python39\Scripts;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\Go\bin;C:\Program Files\Tesseract-OCR;C:\Users\2171040202146\poppler-22.01.0\Library\bin;C:\Program Files\gs\gs9.56.1\bin;C:\Program Files\pdftotree\bin;C:\Users\2171040202146\AppData\Local\Microsoft\WindowsApps;C:\Users\2171040202146\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\2171040202146\AppData\Roaming\npm;C:\Users\2171040202146\AppData\Local\Programs\Python\Python39;C:\Users\2171040202146\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\2171040202146\.dotnet\tools;C:\Users\2171040202146\go\bin;C:\Users\2171040202146\AppData\Roaming\Python\Python39\Scripts;C:\Program Files\gs\gs9.56.1\bin;C:\Users\2171040202146\Downloads\sqlite;c:\tagui\src;C:\Program Files\poppler-22.04.0\Library\bin;C:\Program Files\Tesseract-OCR\tessdata;C:\Program Files\Tesseract-OCR;
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  14.17.6
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: unable to get local issuer certificate
+      at TLSSocket.onConnectSecure (_tls_wrap.js:1514:34)
+      at TLSSocket.emit (events.js:400:28)
+      at TLSSocket._finishInit (_tls_wrap.js:936:8)
+      at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:708:12)
+
+npm manifest: 
+  {
+    "name": "test_webpack",
+    "version": "1.0.0",
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "test": "jest --watchAll"
+    },
+    "jest": {
+      "preset": "jest-expo"
+    },
+    "dependencies": {
+      "@expo/vector-icons": "^13.0.0",
+      "@react-navigation/bottom-tabs": "^6.0.5",
+      "@react-navigation/native": "^6.0.2",
+      "@react-navigation/native-stack": "^6.1.0",
+      "expo": "~46.0.9",
+      "expo-asset": "~8.6.1",
+      "expo-constants": "~13.2.4",
+      "expo-font": "~10.2.0",
+      "expo-linking": "~3.2.2",
+      "expo-splash-screen": "~0.16.2",
+      "expo-status-bar": "~1.4.0",
+      "expo-system-ui": "~1.3.0",
+      "expo-web-browser": "~11.0.0",
+      "react": "18.0.0",
+      "react-dom": "18.0.0",
+      "react-native": "0.69.5",
+      "react-native-safe-area-context": "4.3.1",
+      "react-native-screens": "~3.15.0",
+      "react-native-web": "~0.18.7"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.12.9",
+      "@types/react": "~18.0.14",
+      "@types/react-native": "~0.69.1",
+      "jest": "^26.6.3",
+      "jest-expo": "~44.0.1",
+      "react-test-renderer": "18.0.0",
+      "typescript": "~4.3.5"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
