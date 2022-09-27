@@ -6,7 +6,7 @@
 - Webpack config
 
 ## Demo
-https://lite-kowloon-bus-app.netlify.app/
+https://lite-kowloon-bus.netlify.app/
 
 ## Preview
 ![All Bus Route](https://github.com/henry951/bus_app/blob/master/screenshoots/all_routes.PNG)
