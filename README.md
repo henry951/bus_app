@@ -5,6 +5,9 @@
 - Supporting Web with React-native-web
 - Webpack config
 
+## Demo
+https://tiny-sundae-b9dc1a.netlify.app/
+
 ## Preview
 ![All Bus Route](https://github.com/henry951/bus_app/blob/master/screenshoots/all_routes.PNG)
 
